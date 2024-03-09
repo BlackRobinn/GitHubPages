@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(233, 150, 122, 0.288);
+    color: #563621;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+img {
+    width: 500px;
+    height: 300px;
+    align-items: center;
+}
+ul {
+    display:flexbox;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 50px;
+}
+.center1 { /*nomes abaixo das fotos */
+    text-align: center;
+}
+.center2 {
+    text-align: end;
+    justify-content: end;
+    align-items: end;
+}
+h2 {
+    text-align: center;
+    font-size: 350%;
+}

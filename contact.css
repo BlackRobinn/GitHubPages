@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(233, 150, 122, 0.288);
+    color: #563621;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+footer img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
